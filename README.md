@@ -5,7 +5,7 @@
 <p align="center"> A minimal, easy to use hashing and encryption package. </p>
 
 ---
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Febzey/quickencrypt/graphs/commit-activity) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Npm package version](https://badgen.net/npm/v/@febzey/quickencrypt)](https://npmjs.com/package/@febzey/quickencrypt) [![GitHub issues](https://img.shields.io/github/issues/Febzey/quickencrypt.svg)](https://github.com/Febzey/quickencrypt/issues/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Febzey/quickencrypt/graphs/commit-activity) [![made-with-javascript](https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg)](https://www.javascript.com) [![Npm package version](https://badgen.net/npm/v/@febzey/quickencrypt)](https://npmjs.com/package/@febzey/quickencrypt) [![GitHub issues](https://img.shields.io/github/issues/Febzey/quickencrypt.svg)](https://github.com/Febzey/quickencrypt/issues/)
 
 <p align="center">
 
