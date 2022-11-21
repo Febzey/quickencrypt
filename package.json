@@ -1,5 +1,5 @@
 {
-  "name": "quickencrypt",
+  "name": "@febzey/quickencrypt",
   "version": "1.0.0",
   "description": "Quickly encrypt passwords and messages.",
   "main": "build/index.js",
@@ -10,10 +10,7 @@
     "build": "tsc",
     "start": "yarn build && node build/index.js"
   },
-  "dependencies": {
-    "@types/crypto-js": "^4.1.1",
-    "crypto-js": "^4.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^18.11.9"
   }
